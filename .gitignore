@@ -6,6 +6,10 @@ train.bat
 __pycache__
 */**/__pycache__
 logs
-sd-1-4.ckpt
 regularization_images/
 training_images/
+outputs/
+trained/models/
+history.txt
+*.ckpt
+trained_models/textual_inv-18-10
